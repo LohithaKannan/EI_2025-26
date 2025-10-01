@@ -76,10 +76,15 @@ Goodbye!
  
 
 **Code Structure**
+
 VirtualClassroomManager: Main package
+
 commands: Command implementations (CommandParser)
+
 model: Core domain classes (Student, Assignment, Classroom)
+
 service: Services for managing classrooms, students, and assignments (ClassroomService)
+
 Main.java: Entry point of the application
 
 
